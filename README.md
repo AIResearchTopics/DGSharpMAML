@@ -10,6 +10,7 @@
  - `pip install -r requirements.txt`
  - Run `python DG-SharpMAML.py` or `python3 DG-SharpMAML.py` | Use the .ipynb file: `DG-SharpMAML.ipynb`
    - Change `self.folder` variable to the directory where you hold your dataset and change `self.output_folder`variable to where you want to store the results
+   - Set self.delta to required value
 
 ### Datasets:
 - Omniglot: [Link to Omniglot dataset](https://drive.google.com/file/d/1xVKZPDAdLmf7UQq9AwdtXFLo3Ph7fY2o/view)
